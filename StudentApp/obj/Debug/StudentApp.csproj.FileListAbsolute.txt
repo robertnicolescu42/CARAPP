@@ -1,0 +1,11 @@
+C:\Users\Student\Desktop\StudentApp\StudentApp\bin\Debug\StudentApp.dll
+C:\Users\Student\Desktop\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+C:\Users\Student\Desktop\StudentApp\StudentApp\obj\Debug\StudentApp.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\StudentApp\StudentApp\obj\Debug\StudentApp.dll
+C:\Users\Student\Desktop\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
+D:\Robinson\Programming\POO\C SHARP\StudentAppCSharp\StudentApp\StudentApp\bin\Debug\StudentApp.dll
+D:\Robinson\Programming\POO\C SHARP\StudentAppCSharp\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+D:\Robinson\Programming\POO\C SHARP\StudentAppCSharp\StudentApp\StudentApp\obj\Debug\StudentApp.csprojAssemblyReference.cache
+D:\Robinson\Programming\POO\C SHARP\StudentAppCSharp\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+D:\Robinson\Programming\POO\C SHARP\StudentAppCSharp\StudentApp\StudentApp\obj\Debug\StudentApp.dll
+D:\Robinson\Programming\POO\C SHARP\StudentAppCSharp\StudentApp\StudentApp\obj\Debug\StudentApp.pdb

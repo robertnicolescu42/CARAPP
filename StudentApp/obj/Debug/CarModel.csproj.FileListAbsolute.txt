@@ -1,0 +1,6 @@
+D:\Robinson\Programming\POO\C SHARP\CarPARKapp\StudentApp\StudentApp\bin\Debug\StudentApp.dll
+D:\Robinson\Programming\POO\C SHARP\CarPARKapp\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+D:\Robinson\Programming\POO\C SHARP\CarPARKapp\StudentApp\StudentApp\obj\Debug\CarModel.csprojAssemblyReference.cache
+D:\Robinson\Programming\POO\C SHARP\CarPARKapp\StudentApp\StudentApp\obj\Debug\CarModel.csproj.CoreCompileInputs.cache
+D:\Robinson\Programming\POO\C SHARP\CarPARKapp\StudentApp\StudentApp\obj\Debug\StudentApp.dll
+D:\Robinson\Programming\POO\C SHARP\CarPARKapp\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
